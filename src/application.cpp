@@ -1,4 +1,4 @@
-#include <gtkpp/gtkpp.hpp>
+#include <gtkpp/application.hpp>
 #include <gtk-4.0/gtk/gtk.h>
 
 using namespace Gtk;

@@ -1,4 +1,4 @@
-add_library(gtkpp SHARED src/gtkpp.cpp)
+add_library(gtkpp SHARED src/application.cpp)
 target_include_directories(gtkpp PUBLIC src/include)
 add_subdirectory(glibpp)
 

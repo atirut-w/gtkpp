@@ -1,5 +1,6 @@
 #pragma once
-#include <glibpp/glibpp.hpp>
+#include <glibpp/application.hpp>
+#include <glibpp/enums.hpp>
 
 namespace Gtk
 {
